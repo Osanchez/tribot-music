@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="900" viewBox="0 0 1200 900" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><radialGradient id="glow" cx="0.15" cy="0" r="1.1"><stop offset="0" stop-color="#171b24"/><stop offset="1" stop-color="#0d0f14"/></radialGradient><marker id="aho" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7a2c"/></marker><marker id="aso" viewBox="0 0 10 10" refX="1.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#ff7a2c"/></marker><marker id="ahb" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4ea1ff"/></marker><marker id="asb" viewBox="0 0 10 10" refX="1.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#4ea1ff"/></marker><marker id="ahg" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#a3aab6"/></marker><marker id="asg" viewBox="0 0 10 10" refX="1.5" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M10,0 L0,5 L10,10 z" fill="#a3aab6"/></marker></defs><rect x="0" y="0" width="1200" height="900" rx="28" fill="url(#glow)"/><rect x="0.75" y="0.75" width="1198.5" height="898.5" rx="27.5" fill="none" stroke="#232833" stroke-width="1.5"/>
+<text x="48.0" y="76.0" font-size="32" font-weight="700" fill="#f2f3f5" letter-spacing="-0.4">TriBot Music: the models</text>
+<text x="48.0" y="108.0" font-size="16" font-weight="400" fill="#a3aab6">Each song is taken apart and learned once; each join is built from those parts and reworked by AI.</text>
+<rect x="48" y="150" width="1104" height="228" rx="18" fill="#0f151f" stroke="#4ea1ff" stroke-width="1.5"/>
+<text x="68.0" y="180.0" font-size="12.5" font-weight="700" fill="#4ea1ff" letter-spacing="1.8">1 · A SONG IS LEARNED</text>
+<text x="264.7" y="180.0" font-size="13.5" font-weight="400" fill="#a3aab6">·  once, in the background, on the Mac's GPU</text>
+<rect x="68" y="228" width="150" height="96" rx="12" fill="#1b1f28" stroke="#3a404c" stroke-width="1.5"/>
+<text x="86.0" y="258.0" font-size="16" font-weight="650" fill="#f2f3f5">A new song</text>
+<text x="86.0" y="280.5" font-size="12.5" font-weight="400" fill="#a3aab6">Tempo, beats, key</text>
+<text x="86.0" y="300.0" font-size="12.5" font-weight="400" fill="#a3aab6">and sections read</text>
+<rect x="254" y="189" width="250" height="54" rx="27.0" fill="#0f1d2e" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="271" y="207.0" width="18" height="18" rx="4" fill="none" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="276.5" y="212.5" width="7" height="7" rx="1.5" fill="#4ea1ff"/>
+<line x1="275.5" y1="203.0" x2="275.5" y2="207.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="275.5" y1="225.0" x2="275.5" y2="229.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="284.5" y1="203.0" x2="284.5" y2="207.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="284.5" y1="225.0" x2="284.5" y2="229.0" stroke="#4ea1ff" stroke-width="2"/>
+<text x="304.0" y="211.5" font-size="16" font-weight="700" fill="#9cc9ff">Demucs</text>
+<text x="304.0" y="234.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">drums, bass and the rest</text>
+<rect x="254" y="263" width="250" height="54" rx="27.0" fill="#0f1d2e" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="271" y="281.0" width="18" height="18" rx="4" fill="none" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="276.5" y="286.5" width="7" height="7" rx="1.5" fill="#4ea1ff"/>
+<line x1="275.5" y1="277.0" x2="275.5" y2="281.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="275.5" y1="299.0" x2="275.5" y2="303.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="284.5" y1="277.0" x2="284.5" y2="281.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="284.5" y1="299.0" x2="284.5" y2="303.0" stroke="#4ea1ff" stroke-width="2"/>
+<text x="304.0" y="285.5" font-size="16" font-weight="700" fill="#9cc9ff">RoFormer</text>
+<text x="304.0" y="308.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">pulls the vocal out cleanly</text>
+<rect x="540" y="228" width="120" height="96" rx="12" fill="#1b1f28" stroke="#4ea1ff" stroke-width="1.5"/>
+<text x="558.0" y="258.0" font-size="16" font-weight="650" fill="#f2f3f5">Stems</text>
+<text x="558.0" y="280.5" font-size="12.5" font-weight="400" fill="#a3aab6">vocal, drums,</text>
+<text x="558.0" y="300.0" font-size="12.5" font-weight="400" fill="#a3aab6">bass, the rest</text>
+<rect x="696" y="189" width="300" height="54" rx="27.0" fill="#0f1d2e" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="713" y="207.0" width="18" height="18" rx="4" fill="none" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="718.5" y="212.5" width="7" height="7" rx="1.5" fill="#4ea1ff"/>
+<line x1="717.5" y1="203.0" x2="717.5" y2="207.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="717.5" y1="225.0" x2="717.5" y2="229.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="726.5" y1="203.0" x2="726.5" y2="207.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="726.5" y1="225.0" x2="726.5" y2="229.0" stroke="#4ea1ff" stroke-width="2"/>
+<text x="746.0" y="211.5" font-size="16" font-weight="700" fill="#9cc9ff">MMS forced alignment</text>
+<text x="746.0" y="234.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">places each lyric word on the vocal</text>
+<rect x="696" y="263" width="300" height="54" rx="27.0" fill="#0f1d2e" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="713" y="281.0" width="18" height="18" rx="4" fill="none" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="718.5" y="286.5" width="7" height="7" rx="1.5" fill="#4ea1ff"/>
+<line x1="717.5" y1="277.0" x2="717.5" y2="281.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="717.5" y1="299.0" x2="717.5" y2="303.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="726.5" y1="277.0" x2="726.5" y2="281.0" stroke="#4ea1ff" stroke-width="2"/>
+<line x1="726.5" y1="299.0" x2="726.5" y2="303.0" stroke="#4ea1ff" stroke-width="2"/>
+<text x="746.0" y="285.5" font-size="16" font-weight="700" fill="#9cc9ff">Whisper</text>
+<text x="746.0" y="308.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">writes the lyrics when none are found</text>
+<rect x="1032" y="228" width="102" height="96" rx="12" fill="#1b1f28" stroke="#3a404c" stroke-width="1.5"/>
+<text x="1050.0" y="258.0" font-size="16" font-weight="650" fill="#f2f3f5">Library</text>
+<text x="1050.0" y="280.5" font-size="12.5" font-weight="400" fill="#a3aab6">kept for</text>
+<text x="1050.0" y="300.0" font-size="12.5" font-weight="400" fill="#a3aab6">every mix</text>
+<text x="70.0" y="352.0" font-size="13.5" font-weight="400" fill="#a3aab6">MMS lines the lyrics up against the vocal RoFormer pulled out, so the DJ knows where every sung line starts and ends.</text>
+<path d="M218.0,276.0 L236.0,276.0 L236.0,216.0 L254.0,216.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#ahb)"/>
+<path d="M236.0,276.0 L236.0,290.0 L254.0,290.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#ahb)"/>
+<path d="M504.0,216.0 L522.0,216.0 L522.0,276.0 L540.0,276.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#ahb)"/>
+<path d="M504.0,290.0 L522.0,290.0 L522.0,276.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M660.0,276.0 L678.0,276.0 L678.0,216.0 L696.0,216.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#ahb)"/>
+<path d="M678.0,276.0 L678.0,290.0 L696.0,290.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#ahb)"/>
+<path d="M996.0,216.0 L1014.0,216.0 L1014.0,276.0 L1032.0,276.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#ahb)"/>
+<path d="M996.0,290.0 L1014.0,290.0 L1014.0,276.0" fill="none" stroke="#4ea1ff" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="48" y="420" width="1104" height="384" rx="18" fill="#1a130e" stroke="#ff7a2c" stroke-width="1.5"/>
+<text x="68.0" y="450.0" font-size="12.5" font-weight="700" fill="#ff7a2c" letter-spacing="1.8">2 · A TRANSITION IS MADE</text>
+<text x="293.8" y="450.0" font-size="13.5" font-weight="400" fill="#a3aab6">·  ahead of time, while the current song plays</text>
+<rect x="68" y="530" width="196" height="116" rx="12" fill="#1b1f28" stroke="#ff7a2c" stroke-width="1.5"/>
+<text x="86.0" y="560.0" font-size="16" font-weight="650" fill="#f2f3f5">DJ engine</text>
+<text x="86.0" y="582.5" font-size="12.5" font-weight="400" fill="#a3aab6">Stem blend: parts of</text>
+<text x="86.0" y="602.0" font-size="12.5" font-weight="400" fill="#a3aab6">both songs laid on</text>
+<text x="86.0" y="621.5" font-size="12.5" font-weight="400" fill="#a3aab6">their tracked beats</text>
+<rect x="300" y="530" width="196" height="116" rx="12" fill="#1b1f28" stroke="#ff7a2c" stroke-width="1.5"/>
+<text x="318.0" y="560.0" font-size="16" font-weight="650" fill="#f2f3f5">Mix check</text>
+<text x="318.0" y="582.5" font-size="12.5" font-weight="400" fill="#a3aab6">Measures the render,</text>
+<text x="318.0" y="602.0" font-size="12.5" font-weight="400" fill="#a3aab6">fixes it or refuses</text>
+<text x="318.0" y="621.5" font-size="12.5" font-weight="400" fill="#a3aab6">it before it plays</text>
+<rect x="540" y="522" width="318" height="132" rx="22" fill="#2a1a10" stroke="#ff7a2c" stroke-width="2"/>
+<rect x="557" y="579.0" width="18" height="18" rx="4" fill="none" stroke="#ff7a2c" stroke-width="2"/>
+<rect x="562.5" y="584.5" width="7" height="7" rx="1.5" fill="#ff7a2c"/>
+<line x1="561.5" y1="575.0" x2="561.5" y2="579.0" stroke="#ff7a2c" stroke-width="2"/>
+<line x1="561.5" y1="597.0" x2="561.5" y2="601.0" stroke="#ff7a2c" stroke-width="2"/>
+<line x1="570.5" y1="575.0" x2="570.5" y2="579.0" stroke="#ff7a2c" stroke-width="2"/>
+<line x1="570.5" y1="597.0" x2="570.5" y2="601.0" stroke="#ff7a2c" stroke-width="2"/>
+<text x="590.0" y="564.5" font-size="16" font-weight="700" fill="#ffb27a">ACE-Step turbo</text>
+<text x="590.0" y="587.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">on Modal: repaints the middle of</text>
+<text x="590.0" y="606.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">the join, keeps the DJ's own</text>
+<text x="590.0" y="625.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">blend at its edges</text>
+<rect x="902" y="530" width="232" height="116" rx="12" fill="#1b1f28" stroke="#ff7a2c" stroke-width="1.5"/>
+<text x="920.0" y="560.0" font-size="16" font-weight="650" fill="#f2f3f5">Played</text>
+<text x="920.0" y="582.5" font-size="12.5" font-weight="400" fill="#a3aab6">The reworked join if it</text>
+<text x="920.0" y="602.0" font-size="12.5" font-weight="400" fill="#a3aab6">is back in time and</text>
+<text x="920.0" y="621.5" font-size="12.5" font-weight="400" fill="#a3aab6">passes its checks</text>
+<path d="M264.0,588.0 L300.0,588.0" fill="none" stroke="#ff7a2c" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#aho)"/>
+<path d="M496.0,588.0 L540.0,588.0" fill="none" stroke="#ff7a2c" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="7 6" marker-end="url(#aho)"/>
+<path d="M858.0,588.0 L902.0,588.0" fill="none" stroke="#ff7a2c" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="7 6" marker-end="url(#aho)"/>
+<path d="M398.0,530.0 L398.0,500.0 L1018.0,500.0 L1018.0,530.0" fill="none" stroke="#ff7a2c" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#aho)"/>
+<rect x="539.90625" y="489.5" width="336.1875" height="24.5" rx="12.25" fill="#0d0f14"/>
+<text x="708.0" y="507.0" font-size="12.5" font-weight="500" fill="#ff7a2c" text-anchor="middle">otherwise the DJ's own blend plays, as rendered</text>
+<rect x="540" y="692" width="318" height="54" rx="27.0" fill="#2a1a10" stroke="#ff7a2c" stroke-width="2"/>
+<rect x="557" y="710.0" width="18" height="18" rx="4" fill="none" stroke="#ff7a2c" stroke-width="2"/>
+<rect x="562.5" y="715.5" width="7" height="7" rx="1.5" fill="#ff7a2c"/>
+<line x1="561.5" y1="706.0" x2="561.5" y2="710.0" stroke="#ff7a2c" stroke-width="2"/>
+<line x1="561.5" y1="728.0" x2="561.5" y2="732.0" stroke="#ff7a2c" stroke-width="2"/>
+<line x1="570.5" y1="706.0" x2="570.5" y2="710.0" stroke="#ff7a2c" stroke-width="2"/>
+<line x1="570.5" y1="728.0" x2="570.5" y2="732.0" stroke="#ff7a2c" stroke-width="2"/>
+<text x="590.0" y="714.5" font-size="16" font-weight="700" fill="#ffb27a">Genre LoRA adapter</text>
+<text x="590.0" y="737.5" font-size="13" font-weight="400" fill="#f2f3f5" opacity="0.82">steers ACE-Step toward a genre</text>
+<path d="M699.0,692.0 L699.0,654.0" fill="none" stroke="#ff7a2c" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#aho)"/>
+<rect x="68" y="668" width="428" height="118" rx="14" fill="#1d1712" stroke="#3a404c" stroke-width="1.5"/>
+<text x="86.0" y="694.0" font-size="11.5" font-weight="700" fill="#ffb27a" letter-spacing="1.6">THE ADAPTERS</text>
+<text x="86.0" y="718.0" font-size="13.5" font-weight="400" fill="#f2f3f5" opacity="0.86">The one for the genre the join leads into is used;</text>
+<text x="86.0" y="737.0" font-size="13.5" font-weight="400" fill="#f2f3f5" opacity="0.86">else the song it leaves. Most are a public set;</text>
+<text x="86.0" y="756.0" font-size="13.5" font-weight="400" fill="#f2f3f5" opacity="0.86">the project trained its own on Modal for a genre</text>
+<text x="86.0" y="775.0" font-size="13.5" font-weight="400" fill="#f2f3f5" opacity="0.86">that set lacked.</text>
+<text x="86.0" y="779.0" font-size="13.5" font-weight="400" fill="#f2f3f5"></text>
+<text x="902.0" y="700.0" font-size="13.5" font-weight="400" fill="#a3aab6">Turbo: the fast, few-step</text>
+<text x="902.0" y="720.0" font-size="13.5" font-weight="400" fill="#a3aab6">ACE-Step model, run only</text>
+<text x="902.0" y="740.0" font-size="13.5" font-weight="400" fill="#a3aab6">when a blend is planned.</text>
+<rect x="48" y="835" width="40" height="24" rx="12" fill="#222630" stroke="#4ea1ff" stroke-width="2"/>
+<rect x="56" y="841" width="12" height="12" rx="3" fill="none" stroke="#4ea1ff" stroke-width="1.8"/>
+<rect x="59.5" y="844.5" width="5" height="5" rx="1" fill="#4ea1ff"/>
+<text x="100.0" y="852.0" font-size="13.5" font-weight="400" fill="#a3aab6">Model that learns a song</text>
+<rect x="310.58000000000004" y="835" width="40" height="24" rx="12" fill="#222630" stroke="#ff7a2c" stroke-width="2"/>
+<rect x="318.58000000000004" y="841" width="12" height="12" rx="3" fill="none" stroke="#ff7a2c" stroke-width="1.8"/>
+<rect x="322.08000000000004" y="844.5" width="5" height="5" rx="1" fill="#ff7a2c"/>
+<text x="362.6" y="852.0" font-size="13.5" font-weight="400" fill="#a3aab6">Model that makes a join</text>
+<path d="M565.8,847.0 L605.8,847.0" fill="none" stroke="#a3aab6" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#ahg)"/>
+<text x="617.8" y="852.0" font-size="13.5" font-weight="400" fill="#a3aab6">Always</text>
+<path d="M695.9,847.0 L735.9,847.0" fill="none" stroke="#a3aab6" stroke-width="2.5" stroke-linejoin="round" stroke-dasharray="7 6" marker-end="url(#ahg)"/>
+<text x="747.9" y="852.0" font-size="13.5" font-weight="400" fill="#a3aab6">On demand</text>
+</svg>
